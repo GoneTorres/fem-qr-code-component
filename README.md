@@ -21,13 +21,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://fem-qr-code-component-beta.vercel.app)
+- [Live Site URL](https://fem-qr-code-component-beta.vercel.app)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5
 - CSS
 ## Author
 
